@@ -1,5 +1,3 @@
-/* mysql -u root -p < setup.sql */
-
 DROP DATABASE IF EXISTS music;
 
 CREATE DATABASE music;
